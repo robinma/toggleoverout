@@ -1,0 +1,14 @@
+{
+    "version": "0.0.1",
+    "name": "toggleOverOut",
+    "description": "A javascript lib ",
+    "author":"robin ma <ahmzj@163.com>",
+    "dependencies": {
+        "grunt": "~0.4.1",
+		"grunt-contrib-uglify": "~0.2.0"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+		"grunt-contrib-uglify": "~0.2.0"
+    }
+}
